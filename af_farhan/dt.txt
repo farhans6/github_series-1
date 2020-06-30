@@ -1,0 +1,7 @@
+Hi
+This file is a list of datatypes
+-int
+-char
+-long
+-short
+-double
