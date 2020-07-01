@@ -3,9 +3,9 @@
 
 ## 2.Git is widely used because it provides cloud storage for source code, supports all popular programming languages, and streamlines the iteration process. It's platform controls revisions and runs in the command line interface. It is an Open-source platform.
 
-##3.Version control systems help a software team manage changes to source code over time. VCS keeps track of every modification to the code in a database. If a mistake is made, developers can turn back the clock and compare earlier versions of the code to help fix the mistake. Git is a distributed VCS, where every contributor has a local copy or “clone” of the main repository i.e. everyone maintains a local repository of their own which contains all the files and metadata present in the main repository.
+## 3.Version control systems help a software team manage changes to source code over time. VCS keeps track of every modification to the code in a database. If a mistake is made, developers can turn back the clock and compare earlier versions of the code to help fix the mistake. Git is a distributed VCS, where every contributor has a local copy or “clone” of the main repository i.e. everyone maintains a local repository of their own which contains all the files and metadata present in the main repository.
 
-##4.Other platforms similar to Github
+## 4.Other platforms similar to Github
 ### -Bitbucket
 ### -Source Forge
 ### -Gitbucket
@@ -16,7 +16,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Task Day_2:-
 
-##Q1. How git workflow works?
+## Q1. How git workflow works?
 ### ans:- Git Workflow consists of 4 fundamentals.
 ### 1. Workspace - it is the local directory 
 ### 2. Index- it is also called as stage
