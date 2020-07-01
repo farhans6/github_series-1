@@ -1,23 +1,22 @@
 # Task Day_1:-
-### Q1 What do you mean by git and GitHub?
-#### ans:- Git is a distributed version control tool that can manage a development project's source code history. It is a tool a developer installs locally on their computer. On the other hand GitHub is an online service to which developers who use Git can connect and upload or download resources. It is a cloud based platform built around the Git tool which stores code pushed to it from computers running the Git tool. 
-### Q2. Why GitHub is so popular and used in most of the projects?
-#### ans:- Git is widely used because it provides cloud storage for source code, supports all popular programming languages, and streamlines the iteration process. It's platform controls revisions and runs in the command line interface. It is an Open-source platform.
-### Q3. What is a version control system? How Git is a VCS?
-#### ans:- Version control systems help a software team manage changes to source code over time. VCS keeps track of every modification to the code in a database. If a mistake is made, developers can turn back the clock and compare earlier versions of the code to help fix the mistake. Git is a distributed VCS, where every contributor has a local copy or “clone” of the main repository i.e. everyone maintains a local repository of their own which contains all the files and metadata present in the main repository.
-### Q4.What are the other platforms similar to GitHub?
-#### ans:-Other platforms similar to Github
-#### -Bitbucket
-#### -Source Forge
-#### -Gitbucket
-#### -Beanstalk
+## 1. Git is a distributed version control tool that can manage a development project's source code history. It is a tool a developer installs locally on their computer. On the other hand GitHub is an online service to which developers who use Git can connect and upload or download resources. It is a cloud based platform built around the Git tool which stores code pushed to it from computers running the Git tool. 
 
-#### 5. Features such as open-source, availability to use various programming languages, able to clone files, edit code,etc make me interested to use Git and GitHub.
+## 2.Git is widely used because it provides cloud storage for source code, supports all popular programming languages, and streamlines the iteration process. It's platform controls revisions and runs in the command line interface. It is an Open-source platform.
+
+##3.Version control systems help a software team manage changes to source code over time. VCS keeps track of every modification to the code in a database. If a mistake is made, developers can turn back the clock and compare earlier versions of the code to help fix the mistake. Git is a distributed VCS, where every contributor has a local copy or “clone” of the main repository i.e. everyone maintains a local repository of their own which contains all the files and metadata present in the main repository.
+
+##4.Other platforms similar to Github
+### -Bitbucket
+### -Source Forge
+### -Gitbucket
+### -Beanstalk
+
+## 5. Features such as open-source, availability to use various programming languages, able to clone files, edit code,etc make me interested to use Git and GitHub.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Task Day_2:-
 
-## Q1. How git workflow works?
+##Q1. How git workflow works?
 ### ans:- Git Workflow consists of 4 fundamentals.
 ### 1. Workspace - it is the local directory 
 ### 2. Index- it is also called as stage
@@ -87,3 +86,4 @@
 
 ### we can also use this shorter command to delete a branch remotely: git push <remote> :<branch>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
