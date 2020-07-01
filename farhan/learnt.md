@@ -1,0 +1,12 @@
+# Learning from Github-series.
+## Github Series gave me an opportunity to learn the git from scratch.Starting from the working of github which include the process of working with other people and making it easy to collaborate on different projects. Team members can work on files and easily merge their changes in with the master branch of the project. This process of working on git hub starts from forking a repository, in case if someone is doing work on some another person's repository. 
+## After this the repository is need to be cloned which means the repository or simply repo is copied to local machine by using Git command "git clone <repo link>". 
+## Once the repo is cloned we can create as many no. of branches we want using the command "git checkout -b <branch name>". The local 'branch' which is created  is simply a copy of master branch. we can edit in thae branch or branches make as many files we want create, then add those files using command "git add -A" for new file and "git add -u" for updated file.
+## We need to commit the changes to repository that means we need to enquire about the changes to repository, this is done by using "git commit -m 'stmt'" command. we can merge the locally created branches by "git merge <branch>" command by moving on 'master' branch by command "git checkout master".
+## After this i learnt to "push" my cloned repository to github which is done by "git push" command.
+## when the cloned repo is pushed to github, we need to request the main repo or master repo to accept our files, for this we need to create "pull request" or simply "PR" which is created manually on github. the PR is to be closed by putting comments in that which gives the details why the PR is created. The link of PR can be shared.
+## Lastly, i learned aout creting merge conflict and resolving it. A 'merge conflict' is an error which is encountered by git when same line(s) of a file is changed by two different person's. when the files are merged from 'local' branch to 'master'
+## A merge conflict is indicated by "<<<<<<<<'stmt'========'stmt'>>>>>>>>>>>". A merge conflict can be resolved by manually by using any code Editor or on git.
+## If i am not able to solve the merge conflict i can create a "issue" by explaining my error with an screenshot if needed. Someone else can solve that and can post a comment that issue is solved.
+
+## This gitHub series experience was a really a great experience for me. It really made my quarantine productive by learning and experiencing the realm of git and github.

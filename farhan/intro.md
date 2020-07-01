@@ -1,0 +1,2 @@
+# Intro
+## My name is Farhan Siddiqui. I am pursuing B.Tech in Electronics and Communication Engineering. From a very young age i was interested in electronic devices which lands me in this field.Having a good ability in creative thinking i used to keep myself busy in making projects related to my field.The enthusiasm in learning the core subject gave me an opportunity to do an internship as Electronics Engineering Intern.Apart from an electronics hibyist, My hobies include reading books and playing football. 
