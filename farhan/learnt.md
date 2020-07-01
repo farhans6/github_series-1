@@ -8,5 +8,6 @@
 ## Lastly, i learned aout creting merge conflict and resolving it. A 'merge conflict' is an error which is encountered by git when same line(s) of a file is changed by two different person's. when the files are merged from 'local' branch to 'master'
 ## A merge conflict is indicated by "<<<<<<<<'stmt'========'stmt'>>>>>>>>>>>". A merge conflict can be resolved by manually by using any code Editor or on git.
 ## If i am not able to solve the merge conflict i can create a "issue" by explaining my error with an screenshot if needed. Someone else can solve that and can post a comment that issue is solved.
+## After this GitHub series, i am able to fork, clone, merge, add, push, pull create PR, create conflict and resolve it.
 
 ## This gitHub series experience was a really a great experience for me. It really made my quarantine productive by learning and experiencing the realm of git and github.
